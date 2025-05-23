@@ -1,1 +1,1 @@
-Build using `docker build . -t cerkauskas/pylsp:latest`
+Build using `docker build . -t thecherka/pylsp:latest`
